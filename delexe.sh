@@ -1,0 +1,1 @@
+find . -name "*.rej" | xargs rm -rf
